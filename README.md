@@ -14,7 +14,7 @@ Extract voltage and timestamp readings from a phone-recorded video of a DMM disp
 - NVMe: 915.1 GB (768.2 GB free during build)
 
 ### Local test machine (used during testing and development)
-- Fedora 44
+- Fedora Workstation 44
 - Intel i3-7020U @ 2.3 GHz
 - 20 GB RAM
 - Intel HD Graphics 620 (integrated, no dedicated VRAM — shares system memory via DVMT, up to 32 GB addressable)
