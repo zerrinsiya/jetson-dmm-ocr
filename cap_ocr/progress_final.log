@@ -1,0 +1,52 @@
+nohup: ignoring input
+# Processing 2167 frames with 4 workers (retry enabled)
+[0;93m2026-10-03 19:34:05.866188025 [W:onnxruntime:Default, device_discovery.cc:164 DiscoverDevicesForPlatform] GPU device discovery failed: device_discovery.cc:89 ReadFileContents Failed to open file: "/sys/class/drm/card1/device/vendor"[m
+[0;93m2026-10-03 19:34:05.866189977 [W:onnxruntime:Default, device_discovery.cc:164 DiscoverDevicesForPlatform] GPU device discovery failed: device_discovery.cc:89 ReadFileContents Failed to open file: "/sys/class/drm/card1/device/vendor"[m
+[0;93m2026-10-03 19:34:05.866404127 [W:onnxruntime:Default, device_discovery.cc:164 DiscoverDevicesForPlatform] GPU device discovery failed: device_discovery.cc:89 ReadFileContents Failed to open file: "/sys/class/drm/card1/device/vendor"[m
+[0;93m2026-10-03 19:34:05.866196313 [W:onnxruntime:Default, device_discovery.cc:164 DiscoverDevicesForPlatform] GPU device discovery failed: device_discovery.cc:89 ReadFileContents Failed to open file: "/sys/class/drm/card1/device/vendor"[m
+[50/2167] good=50 bad=0 rate=4.7f/s ETA=449s
+[100/2167] good=94 bad=6 rate=5.7f/s ETA=362s
+[150/2167] good=144 bad=6 rate=6.5f/s ETA=309s
+[200/2167] good=189 bad=11 rate=7.0f/s ETA=282s
+[250/2167] good=239 bad=11 rate=7.1f/s ETA=270s
+[300/2167] good=288 bad=12 rate=7.4f/s ETA=253s
+[350/2167] good=336 bad=14 rate=7.5f/s ETA=242s
+[400/2167] good=382 bad=18 rate=7.5f/s ETA=234s
+[450/2167] good=432 bad=18 rate=7.7f/s ETA=223s
+[500/2167] good=482 bad=18 rate=7.8f/s ETA=213s
+[550/2167] good=532 bad=18 rate=7.9f/s ETA=205s
+[600/2167] good=582 bad=18 rate=8.0f/s ETA=196s
+[650/2167] good=632 bad=18 rate=8.0f/s ETA=189s
+[700/2167] good=682 bad=18 rate=8.1f/s ETA=181s
+[750/2167] good=730 bad=20 rate=8.1f/s ETA=174s
+[800/2167] good=780 bad=20 rate=8.2f/s ETA=166s
+[850/2167] good=830 bad=20 rate=8.3f/s ETA=159s
+[900/2167] good=880 bad=20 rate=8.3f/s ETA=152s
+[950/2167] good=930 bad=20 rate=8.3f/s ETA=146s
+[1000/2167] good=980 bad=20 rate=8.4f/s ETA=139s
+[1050/2167] good=1030 bad=20 rate=8.4f/s ETA=133s
+[1100/2167] good=1080 bad=20 rate=8.4f/s ETA=127s
+[1150/2167] good=1130 bad=20 rate=8.5f/s ETA=120s
+[1200/2167] good=1180 bad=20 rate=8.5f/s ETA=114s
+[1250/2167] good=1230 bad=20 rate=8.5f/s ETA=108s
+[1300/2167] good=1280 bad=20 rate=8.5f/s ETA=101s
+[1350/2167] good=1330 bad=20 rate=8.6f/s ETA=95s
+[1400/2167] good=1380 bad=20 rate=8.6f/s ETA=89s
+[1450/2167] good=1430 bad=20 rate=8.6f/s ETA=83s
+[1500/2167] good=1480 bad=20 rate=8.6f/s ETA=77s
+[1550/2167] good=1530 bad=20 rate=8.6f/s ETA=71s
+[1600/2167] good=1580 bad=20 rate=8.7f/s ETA=65s
+[1650/2167] good=1630 bad=20 rate=8.7f/s ETA=60s
+[1700/2167] good=1680 bad=20 rate=8.7f/s ETA=54s
+[1750/2167] good=1730 bad=20 rate=8.7f/s ETA=48s
+[1800/2167] good=1780 bad=20 rate=8.7f/s ETA=42s
+[1850/2167] good=1830 bad=20 rate=8.7f/s ETA=36s
+[1900/2167] good=1880 bad=20 rate=8.7f/s ETA=31s
+[1950/2167] good=1930 bad=20 rate=8.7f/s ETA=25s
+[2000/2167] good=1980 bad=20 rate=8.8f/s ETA=19s
+[2050/2167] good=2030 bad=20 rate=8.7f/s ETA=13s
+[2100/2167] good=2080 bad=20 rate=8.8f/s ETA=8s
+[2150/2167] good=2130 bad=20 rate=8.7f/s ETA=2s
+[2167/2167] good=2147 bad=20 rate=8.8f/s ETA=0s
+
+# DONE: 2147 good, 20 bad, total 2167

@@ -240,14 +240,16 @@ The bottleneck is per-inference host overhead, not compute. Scaling further woul
 
 ```
 README.md
-data/
-  <spreadsheets>.xlsx         # analysis outputs, not part of the pipeline
+processedxlsx/
+  capacitorCharge_datasheet_LIBREOFFICECALC.xlsx 
+  capacitorCharge_datasheet_EXCEL.xlsx 
+  
 cap_ocr/
-  README.md                   # file-by-file description
+  README.md                   # desc
   batch_ocr_parallel_retry.py # main OCR script
   data_final.txt              # final output, 2147/2167 good
   progress_final.log          # run log
-  frames/                     # one sample frame only (full set regenerable)
+  frames_COMPRESSED/          # frames
   ... (other scripts and test outputs)
 ```
 
